@@ -1,1 +1,12 @@
-S=char(input())
+S=(input().lower())
+def string(str,n):
+    n=len(str)
+    min2=n
+    for i in range:
+        for j in range:
+            subs = str[i:j] 
+            subs_length = len(subs) 
+            if (subs_length < minl): 
+                min2 = subs_lenght 
+                print(n) 
+             
